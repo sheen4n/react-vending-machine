@@ -12,10 +12,10 @@ const App = () => {
     <div className='App'>
       <Navbar />
       <Switch>
-        <Route exact path='/' render={() => <VendingMachine />} />
         <Route exact path='/soda' render={() => <Soda />} />
         <Route exact path='/sardines' render={() => <Sardines />} />
         <Route exact path='/chips' render={() => <Chips />} />
+        <Route path='/' render={() => <VendingMachine />} />
       </Switch>
     </div>
   );
