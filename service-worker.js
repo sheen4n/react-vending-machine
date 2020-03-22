@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-vending-machine/precache-manifest.ed64c29bbb444671da6340308226bc40.js"
+  "/react-vending-machine/precache-manifest.b5509e0e37aa17e616b086fda7f16344.js"
 );
 
 workbox.clientsClaim();

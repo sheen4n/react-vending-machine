@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3597729baefad0d5a730",
+    "revision": "4c071700ee96a8a1f288",
     "url": "/react-vending-machine/static/css/main.b34b5a19.chunk.css"
   },
   {
-    "revision": "3597729baefad0d5a730",
-    "url": "/react-vending-machine/static/js/main.3597729b.chunk.js"
+    "revision": "4c071700ee96a8a1f288",
+    "url": "/react-vending-machine/static/js/main.4c071700.chunk.js"
   },
   {
     "revision": "f66d9077b521a2aae182",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/react-vending-machine/static/media/VendingMachine.369bea35.png"
   },
   {
-    "revision": "d69eff61d12505692733a628037c183f",
+    "revision": "5fd4a1d2dac2c9ef957911536c91a17c",
     "url": "/react-vending-machine/index.html"
   }
 ];
